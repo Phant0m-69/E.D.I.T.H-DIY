@@ -1,0 +1,24 @@
+step1:
+Put images into input folder, install the requrements.
+
+step2:
+THIS IS A VERY IMPORTANT STEP
+go to class_list.text , and put names of objects you want to recongise , one word per line.
+
+step3:
+run production_executer.py, now make boxes .
+Press A to go to previous slide , press D to go to next slide.move the stuff to make boxes.
+W and S is for changing the label of the box.
+
+step4:
+Now a GUI screen will come.Enter the number of objects that we want to recognise.
+
+step5:
+If everything had happened successfuly , the program finishes execution.
+Now go to output folder and the 'tiny-yolo...cfg' and the zip file are the reqiured output.
+Upload the zip file to your google drive acount, directly , not in any folder.
+
+Step9:
+Now open trainer.ipynb from google drive , make sure to upload trainer.ipynb into your google drive.(directly , not in any folder)
+Now follow the steps given in trainer.ipynb , to work o colab.
+
